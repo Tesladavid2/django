@@ -4,7 +4,7 @@ echo "Something ..."
 whoami
 pwd
 echo $HOME
-echo " its my home directote: $HOME" 
+echo " its my home directote: $HOME"
 
 index=5
 name="Mike"
@@ -15,7 +15,7 @@ var2=$(( $var1 / 2 ))
 echo $var1
 echo $var2
 
-if pwd 
+if pwd
 then
 echo "works"
 if
